@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "POLS 200: Foundations of Political Science"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2023-fall-teaching-1
+venue: "Texas A&M University, Political Science"
+date: 2023-08-23
+location: "Texas, United States"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+In Fall 2023 and Spring 2024, I served as a teaching assistant for an undergraduate political science course. This class introduced students to political science literature, substantive political science theory, and basic quantitative research methods and studies.
 
 Heading 1
 ======
