@@ -2,7 +2,7 @@
 title: "POLS 200: Foundations of Political Science"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2023-fall-teaching-1
+permalink: /teaching/2023-fall-2024-spring
 venue: "Texas A&M University, Political Science"
 date: 2023-08-23
 location: "Texas, United States"
